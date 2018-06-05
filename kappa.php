@@ -51,6 +51,18 @@ include "config.php";
                     <a class="nav-link" href="kappa.php">Kappa</a>
                 </li>
                 <li class="nav-item">
+                    <a class="nav-link" href="lotto.php">Lotto</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="joma.php">Joma</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="umbro.php">Umbro</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="new_balance.php">New Balance</a>
+                </li>
+                <li class="nav-item">
                     <a class="nav-link" href="unknown.php">Unknown</a>
                 </li>
             </ul>
@@ -60,7 +72,7 @@ include "config.php";
 <section class="container-fluid">
     <div class="container3">
         <h1 class="h1">Countries with Kappa outfit</h1>
-        <table border="1" align="center">
+        <table border="1" align="center" class="table">
             <thead>
             <tr>
                 <th>Country Name</th>

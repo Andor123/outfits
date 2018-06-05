@@ -48,6 +48,18 @@
                     <a class="nav-link" href="kappa.php">Kappa</a>
                 </li>
                 <li class="nav-item">
+                    <a class="nav-link" href="lotto.php">Lotto</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="joma.php">Joma</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="umbro.php">Umbro</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="new_balance.php">New Balance</a>
+                </li>
+                <li class="nav-item">
                     <a class="nav-link" href="unknown.php">Unknown</a>
                 </li>
             </ul>
@@ -102,6 +114,24 @@
             <div class="col-sm">
                 <img src="images/kappa.png" class="rounded" alt="kappa"><br>
                 <a class="btn btn-primary" href="kappa.php">Kappa</a>
+            </div>
+            <div class="col-sm">
+                <img src="images/lotto.png" class="rounded" alt="lotto"><br>
+                <a class="btn btn-primary" href="lotto.php">Lotto</a>
+            </div>
+            <div class="col-sm">
+                <img src="images/joma.png" class="rounded" alt="joma"><br>
+                <a class="btn btn-primary" href="joma.php">Joma</a>
+            </div>
+            <div class="col-sm">
+                <img src="images/umbro.png" class="rounded" alt="umbro"><br>
+                <a class="btn btn-primary" href="umbro.php">Umbro</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm">
+                <img src="images/new_balance.png" class="rounded" alt="new_balance"><br>
+                <a class="btn btn-primary" href="new_balance.php">New Balance</a>
             </div>
         </div>
         <div class="row">
