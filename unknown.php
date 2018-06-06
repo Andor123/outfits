@@ -62,6 +62,18 @@ include "config.php";
                 <li class="nav-item">
                     <a class="nav-link" href="new_balance.php">New Balance</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="jako.php">Jako</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="legea.php">Legea</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="diadora.php">Diadora</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="saeta.php">Saeta</a>
+                </li>
                 <li class="nav-item active">
                     <a class="nav-link" href="unknown.php">Unknown</a>
                 </li>

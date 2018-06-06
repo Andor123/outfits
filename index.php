@@ -60,6 +60,18 @@
                     <a class="nav-link" href="new_balance.php">New Balance</a>
                 </li>
                 <li class="nav-item">
+                    <a class="nav-link" href="jako.php">Jako</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="legea.php">Legea</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="diadora.php">Diadora</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="saeta.php">Saeta</a>
+                </li>
+                <li class="nav-item">
                     <a class="nav-link" href="unknown.php">Unknown</a>
                 </li>
             </ul>
@@ -132,6 +144,24 @@
             <div class="col-sm">
                 <img src="images/new_balance.png" class="rounded" alt="new_balance"><br>
                 <a class="btn btn-primary" href="new_balance.php">New Balance</a>
+            </div>
+            <div class="col-sm">
+                <img src="images/jako.png" class="rounded" alt="jako"><br>
+                <a class="btn btn-primary" href="jako.php">Jako</a>
+            </div>
+            <div class="col-sm">
+                <img src="images/legea.png" class="rounded" alt="legea"><br>
+                <a class="btn btn-primary" href="legea.php">Legea</a>
+            </div>
+            <div class="col-sm">
+                <img src="images/diadora.png" class="rounded" alt="diadora"><br>
+                <a class="btn btn-primary" href="diadora.php">Diadora</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm">
+                <img src="images/saeta.png" class="rounded" alt="saeta"><br>
+                <a class="btn btn-primary" href="saeta.php">Saeta</a>
             </div>
         </div>
         <div class="row">
