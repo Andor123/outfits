@@ -5,7 +5,7 @@ include "config.php";
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Marathon</title>
+    <title>Lacatoni</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css"
           integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4"
@@ -20,7 +20,7 @@ include "config.php";
 </header>
 <section class="container-fluid">
     <div class="container3">
-        <h1 class="h1">Countries with Marathon outfit</h1>
+        <h1 class="h1">Countries with Lacatoni outfit</h1>
         <table border="1" align="center" class="table">
             <thead>
             <tr>
@@ -30,7 +30,7 @@ include "config.php";
             </thead>
             <tbody>
             <?php
-            $sql = "SELECT country_name, sport_name, brand_name FROM outfit_list WHERE brand_name = 'Marathon' ORDER BY country_name ASC";
+            $sql = "SELECT country_name, sport_name, brand_name FROM outfit_list WHERE brand_name = 'Lacatoni' ORDER BY country_name ASC";
             $result = mysqli_query($connection, $sql);
 
             if (mysqli_num_rows($result) > 0) {

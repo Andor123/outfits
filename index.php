@@ -13,69 +13,6 @@
 <header>
     <nav class="navbar fixed-top navbar-expand-lg navbar-light" style="background-color: lightblue;">
         <a class="navbar-brand" href="index.php">Outfits</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse"
-                data-target="#navbarContent" aria-controls="navbarContent"
-                aria-expanded="false" aria-label="Toggle Navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarContent">
-            <ul class="navbar-nav mr-auto">
-                <li class="nav-item">
-                    <a class="nav-link" href="hummel.php">Hummel</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="macron.php">Macron</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="adidas.php">Adidas</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="nike.php">Nike</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="puma.php">Puma</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="admiral.php">Admiral</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="errea.php">Errea</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="marathon.php">Marathon</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="kappa.php">Kappa</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="lotto.php">Lotto</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="joma.php">Joma</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="umbro.php">Umbro</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="new_balance.php">New Balance</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="jako.php">Jako</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="legea.php">Legea</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="diadora.php">Diadora</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="saeta.php">Saeta</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="unknown.php">Unknown</a>
-                </li>
-            </ul>
-        </div>
     </nav>
 </header>
 <section class="container-fluid">
@@ -86,6 +23,7 @@
 </section>
 <section class="container-fluid">
     <div class="container2">
+        <h1 class="h1">List of outfits</h1>
         <div class="row">
             <div class="col-sm">
                 <img src="images/hummel.png" class="rounded" alt="hummel"><br>
@@ -114,15 +52,19 @@
                 <a class="btn btn-primary" href="admiral.php">Admiral</a>
             </div>
             <div class="col-sm">
+                <img src="images/romai.png" class="rounded" alt="romai"><br>
+                <a class="btn btn-primary" href="romai.php">Romai</a>
+            </div>
+            <div class="col-sm">
                 <img src="images/errea.png" class="rounded" alt="erreá"><br>
                 <a class="btn btn-primary" href="errea.php">Errea</a>
             </div>
+        </div>
+        <div class="row">
             <div class="col-sm">
                 <img src="images/marathon.png" class="rounded" alt="marathon"><br>
                 <a class="btn btn-primary" href="marathon.php">Marathon</a>
             </div>
-        </div>
-        <div class="row">
             <div class="col-sm">
                 <img src="images/kappa.png" class="rounded" alt="kappa"><br>
                 <a class="btn btn-primary" href="kappa.php">Kappa</a>
@@ -135,16 +77,26 @@
                 <img src="images/joma.png" class="rounded" alt="joma"><br>
                 <a class="btn btn-primary" href="joma.php">Joma</a>
             </div>
+        </div>
+        <div class="row">
+            <div class="col-sm">
+                <img src="images/fbt.png" class="rounded" alt="fbt"><br>
+                <a class="btn btn-primary" href="fbt.php">FBT</a>
+            </div>
             <div class="col-sm">
                 <img src="images/umbro.png" class="rounded" alt="umbro"><br>
                 <a class="btn btn-primary" href="umbro.php">Umbro</a>
             </div>
-        </div>
-        <div class="row">
+            <div class="col-sm">
+                <img src="images/lacatoni.png" class="rounded" alt="lacatoni"><br>
+                <a class="btn btn-primary" href="lacatoni.php">Lacatoni</a>
+            </div>
             <div class="col-sm">
                 <img src="images/new_balance.png" class="rounded" alt="new_balance"><br>
                 <a class="btn btn-primary" href="new_balance.php">New Balance</a>
             </div>
+        </div>
+        <div class="row">
             <div class="col-sm">
                 <img src="images/jako.png" class="rounded" alt="jako"><br>
                 <a class="btn btn-primary" href="jako.php">Jako</a>
@@ -157,11 +109,27 @@
                 <img src="images/diadora.png" class="rounded" alt="diadora"><br>
                 <a class="btn btn-primary" href="diadora.php">Diadora</a>
             </div>
-        </div>
-        <div class="row">
             <div class="col-sm">
                 <img src="images/saeta.png" class="rounded" alt="saeta"><br>
                 <a class="btn btn-primary" href="saeta.php">Saeta</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm">
+                <img src="images/uhlsport.png" class="rounded" alt="uhlsport"><br>
+                <a class="btn btn-primary" href="uhlsport.php">Uhlsport</a>
+            </div>
+            <div class="col-sm">
+                <img src="images/kelme.png" class="rounded" alt="kelme"><br>
+                <a class="btn btn-primary" href="kelme.php">Kelme</a>
+            </div>
+            <div class="col-sm">
+                <img src="images/airness.png" class="rounded" alt="airness"><br>
+                <a class="btn btn-primary" href="airness.php">Airness</a>
+            </div>
+            <div class="col-sm">
+                <img src="images/givova.png" class="rounded" alt="givova"><br>
+                <a class="btn btn-primary" href="givova.php">Givova</a>
             </div>
         </div>
         <div class="row">

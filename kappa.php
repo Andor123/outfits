@@ -16,69 +16,6 @@ include "config.php";
 <header>
     <nav class="navbar fixed-top navbar-expand-lg navbar-light" style="background-color: lightblue;">
         <a class="navbar-brand" href="index.php">Outfits</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse"
-                data-target="#navbarContent" aria-controls="navbarContent"
-                aria-expanded="false" aria-label="Toggle Navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarContent">
-            <ul class="navbar-nav mr-auto">
-                <li class="nav-item">
-                    <a class="nav-link" href="hummel.php">Hummel</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="macron.php">Macron</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="adidas.php">Adidas</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="nike.php">Nike</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="puma.php">Puma</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="admiral.php">Admiral</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="errea.php">Errea</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="marathon.php">Marathon</a>
-                </li>
-                <li class="nav-item active">
-                    <a class="nav-link" href="kappa.php">Kappa</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="lotto.php">Lotto</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="joma.php">Joma</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="umbro.php">Umbro</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="new_balance.php">New Balance</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="jako.php">Jako</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="legea.php">Legea</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="diadora.php">Diadora</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="saeta.php">Saeta</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="unknown.php">Unknown</a>
-                </li>
-            </ul>
-        </div>
     </nav>
 </header>
 <section class="container-fluid">
