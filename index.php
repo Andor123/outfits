@@ -134,6 +134,16 @@
         </div>
         <div class="row">
             <div class="col-sm">
+                <img src="images/peak.png" class="rounded" alt="peak"><br>
+                <a class="btn btn-primary" href="peak.php">Peak</a>
+            </div>
+            <div class="col-sm">
+                <img src="images/grand_sport.png" class="rounded" alt="grand_sport"><br>
+                <a class="btn btn-primary" href="grand_sport.php">Grand Sport</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm">
                 <img src="images/unknown.png" class="rounded" alt="unknown"><br>
                 <a class="btn btn-primary" href="unknown.php">Unknown</a>
             </div>
