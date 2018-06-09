@@ -66,16 +66,16 @@
                 <a class="btn btn-primary" href="marathon.php">Marathon</a>
             </div>
             <div class="col-sm">
-                <img src="images/kappa.png" class="rounded" alt="kappa"><br>
-                <a class="btn btn-primary" href="kappa.php">Kappa</a>
-            </div>
-            <div class="col-sm">
                 <img src="images/lotto.png" class="rounded" alt="lotto"><br>
                 <a class="btn btn-primary" href="lotto.php">Lotto</a>
             </div>
             <div class="col-sm">
                 <img src="images/joma.png" class="rounded" alt="joma"><br>
                 <a class="btn btn-primary" href="joma.php">Joma</a>
+            </div>
+            <div class="col-sm">
+                <img src="images/kappa.png" class="rounded" alt="kappa"><br>
+                <a class="btn btn-primary" href="kappa.php">Kappa</a>
             </div>
         </div>
         <div class="row">
@@ -140,6 +140,10 @@
             <div class="col-sm">
                 <img src="images/grand_sport.png" class="rounded" alt="grand_sport"><br>
                 <a class="btn btn-primary" href="grand_sport.php">Grand Sport</a>
+            </div>
+            <div class="col-sm">
+                <img src="images/warrix.png" class="rounded" alt="warrix"><br>
+                <a class="btn btn-primary" href="warrix.php">Warrix</a>
             </div>
         </div>
         <div class="row">
