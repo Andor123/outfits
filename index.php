@@ -145,6 +145,20 @@
                 <img src="images/warrix.png" class="rounded" alt="warrix"><br>
                 <a class="btn btn-primary" href="warrix.php">Warrix</a>
             </div>
+            <div class="col-sm">
+                <img src="images/spalding.png" class="rounded" alt="spalding"><br>
+                <a class="btn btn-primary" href="spalding.php">Spalding</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm">
+                <img src="images/air_jordan.png" class="rounded" alt="air_jordan"><br>
+                <a class="btn btn-primary" href="air_jordan.php">Air Jordan</a>
+            </div>
+            <div class="col-sm">
+                <img src="images/tarmak.png" class="rounded" alt="tarmak"><br>
+                <a class="btn btn-primary" href="tarmak.php">Tarmak</a>
+            </div>
         </div>
         <div class="row">
             <div class="col-sm">

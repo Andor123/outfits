@@ -30,7 +30,7 @@ include "config.php";
             </thead>
             <tbody>
             <?php
-            $sql = "SELECT country_name, sport_name, brand_name FROM outfit_list WHERE brand_name = 'Uhlsport' ORDER BY country_name ASC";
+            $sql = "SELECT country_name, sport_name, brand_name FROM outfit_list WHERE brand_name = 'Uhlsport' ORDER BY country_name ASC, sport_name ASC";
             $result = mysqli_query($connection, $sql);
 
             if (mysqli_num_rows($result) > 0) {
