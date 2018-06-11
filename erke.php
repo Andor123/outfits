@@ -5,7 +5,7 @@ include "config.php";
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Peak</title>
+    <title>ERKE</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css"
           integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4"
@@ -20,17 +20,10 @@ include "config.php";
 </header>
 <section class="container-fluid">
     <div class="container3">
-        <h1 class="h1">Countries with Peak outfit</h1>
-        <table border="1" align="center" class="table">
-            <thead>
-            <tr>
-                <th>Country Name</th>
-                <th>Sport Name</th>
-            </tr>
-            </thead>
-            <tbody>
+        <h1 class="h1">List of nations with ERKE outfit</h1>
+        <table class="table" border="0" align="center">
             <?php
-            $sql = "SELECT country_name, sport_name, brand_name FROM outfit_list WHERE brand_name = 'Peak' ORDER BY country_name ASC, sport_name ASC";
+            $sql = "SELECT country_name, brand_name FROM outfit_list WHERE brand_name = 'ERKE' ORDER BY country_name ASC";
             $result = mysqli_query($connection, $sql);
 
             if (mysqli_num_rows($result) > 0) {
@@ -38,13 +31,11 @@ include "config.php";
                     ?>
                     <tr>
                         <td><?php echo $row["country_name"]; ?></td>
-                        <td><?php echo $row["sport_name"]; ?></td>
                     </tr>
                     <?php
                 }
             }
             ?>
-            </tbody>
         </table>
     </div>
 </section>
