@@ -2,72 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49306097-2bac-4877-b0b1-03c3837e5060" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/erke.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b12f2df9-d901-4ef0-866e-3430524a5325.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/b12f2df9-d901-4ef0-866e-3430524a5325.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/errea.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fbt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grand_sport.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hummel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jako.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/joma.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/adidas.php" beforeDir="false" afterPath="$PROJECT_DIR$/adidas.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admiral.php" beforeDir="false" afterPath="$PROJECT_DIR$/admiral.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/air_jordan.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/airness.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diadora.php" beforeDir="false" afterPath="$PROJECT_DIR$/diadora.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/errea.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fbt.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/givova.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grand_sport.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hummel.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/adidas.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/admiral.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/air_jordan.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/airness.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/diadora.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/errea.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fbt.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/givova.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/grand_sport.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/hummel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jako.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/joma.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kappa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kelme.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/lacatoni.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/legea.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/lotto.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/macron.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/marathon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/new_balance.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/nike.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/peak.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/puma.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/romai.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/saeta.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/spalding.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tarmak.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/uhlsport.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/umbro.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/unknown.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/warrix.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jako.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/joma.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kappa.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kelme.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lacatoni.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/legea.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lotto.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/macron.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/marathon.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_balance.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nike.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/peak.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/puma.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/romai.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/saeta.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spalding.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tarmak.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uhlsport.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/umbro.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unknown.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/warrix.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -137,19 +80,19 @@
         <option value="$PROJECT_DIR$/air_jordan.php" />
         <option value="$PROJECT_DIR$/tarmak.php" />
         <option value="$PROJECT_DIR$/airness.php" />
+        <option value="$PROJECT_DIR$/givova.php" />
+        <option value="$PROJECT_DIR$/adidas.php" />
+        <option value="$PROJECT_DIR$/admiral.php" />
+        <option value="$PROJECT_DIR$/diadora.php" />
+        <option value="$PROJECT_DIR$/erke.php" />
         <option value="$PROJECT_DIR$/errea.php" />
         <option value="$PROJECT_DIR$/fbt.php" />
-        <option value="$PROJECT_DIR$/givova.php" />
         <option value="$PROJECT_DIR$/grand_sport.php" />
         <option value="$PROJECT_DIR$/hummel.php" />
         <option value="$PROJECT_DIR$/jako.php" />
-        <option value="$PROJECT_DIR$/joma.php" />
-        <option value="$PROJECT_DIR$/adidas.php" />
-        <option value="$PROJECT_DIR$/css/index.css" />
-        <option value="$PROJECT_DIR$/admiral.php" />
-        <option value="$PROJECT_DIR$/diadora.php" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/erke.php" />
+        <option value="$PROJECT_DIR$/joma.php" />
+        <option value="$PROJECT_DIR$/css/index.css" />
       </list>
     </option>
   </component>
@@ -228,11 +171,12 @@
       <workItem from="1528537972388" duration="2011000" />
       <workItem from="1528625845706" duration="4294000" />
       <workItem from="1528713123323" duration="5640000" />
+      <workItem from="1528801529305" duration="3380000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50466000" />
+    <option name="totallyTimeSpent" value="53846000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -266,13 +210,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -290,99 +227,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kelme.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lacatoni.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/legea.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/macron.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/umbro.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unknown.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spalding.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/air_jordan.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/airness.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/errea.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/givova.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fbt.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grand_sport.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jako.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hummel.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/joma.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/adidas.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/index.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/adidas.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/kelme.php" />
+    <entry file="file://$PROJECT_DIR$/lacatoni.php" />
+    <entry file="file://$PROJECT_DIR$/legea.php" />
+    <entry file="file://$PROJECT_DIR$/macron.php" />
+    <entry file="file://$PROJECT_DIR$/umbro.php" />
+    <entry file="file://$PROJECT_DIR$/unknown.php" />
+    <entry file="file://$PROJECT_DIR$/spalding.php" />
+    <entry file="file://$PROJECT_DIR$/givova.php" />
     <entry file="file://$PROJECT_DIR$/admiral.php">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -398,6 +250,43 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/erke.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/errea.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fbt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grand_sport.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hummel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jako.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/joma.php">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />

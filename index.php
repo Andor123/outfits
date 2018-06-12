@@ -43,6 +43,34 @@
                 <a class="btn btn-primary" href="erke.php">ERKE</a>
             </div>
         </div>
+        <div class="row">
+            <div class="col-sm">
+                <img src="images/errea.png" class="rounded" alt="errea"><br>
+                <a class="btn btn-primary" href="errea.php">Errea</a>
+            </div>
+            <div class="col-sm">
+                <img src="images/fbt.png" class="rounded" alt="fbt"><br>
+                <a class="btn btn-primary" href="fbt.php">FBT</a>
+            </div>
+            <div class="col-sm">
+                <img src="images/grand_sport.png" class="rounded" alt="grand_sport"><br>
+                <a class="btn btn-primary" href="grand_sport.php">Grand Sport</a>
+            </div>
+            <div class="col-sm">
+                <img src="images/hummel.png" class="rounded" alt="hummel"><br>
+                <a class="btn btn-primary" href="hummel.php">Hummel</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm">
+                <img src="images/jako.png" class="rounded" alt="jako"><br>
+                <a class="btn btn-primary" href="jako.php">Jako</a>
+            </div>
+            <div class="col-sm">
+                <img src="images/joma.png" class="rounded" alt="joma"><br>
+                <a class="btn btn-primary" href="joma.php">Joma</a>
+            </div>
+        </div>
     </div>
 </section>
 <footer class="footer">
