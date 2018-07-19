@@ -70,6 +70,38 @@
                 <img src="images/joma.png" class="rounded" alt="joma"><br>
                 <a class="btn btn-primary" href="joma.php">Joma</a>
             </div>
+            <div class="col-sm">
+                <img src="images/kappa.png" class="rounded" alt="kappa"><br>
+                <a class="btn btn-primary" href="kappa.php">Kappa</a>
+            </div>
+            <div class="col-sm">
+                <img src="images/legea.png" class="rounded" alt="legea"><br>
+                <a class="btn btn-primary" href="legea.php">Legea</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm">
+                <img src="images/lotto.png" class="rounded" alt="lotto"><br>
+                <a class="btn btn-primary" href="lotto.php">Lotto</a>
+            </div>
+            <div class="col-sm">
+                <img src="images/macron.png" class="rounded" alt="macron"><br>
+                <a class="btn btn-primary" href="macron.php">Macron</a>
+            </div>
+            <div class="col-sm">
+                <img src="images/marathon.png" class="rounded" alt="marathon"><br>
+                <a class="btn btn-primary" href="marathon.php">Marathon</a>
+            </div>
+            <div class="col-sm">
+                <img src="images/new_balance.png" class="rounded" alt="new_balance"><br>
+                <a class="btn btn-primary" href="new_balance.php">New Balance</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm">
+                <img src="images/nike.png" class="rounded" alt="nike"><br>
+                <a class="btn btn-primary" href="nike.php">Nike</a>
+            </div>
         </div>
     </div>
 </section>
