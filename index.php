@@ -102,6 +102,14 @@
                 <img src="images/nike.png" class="rounded" alt="nike"><br>
                 <a class="btn btn-primary" href="nike.php">Nike</a>
             </div>
+            <div class="col-sm">
+                <img src="images/peak.png" class="rounded" alt="peak"><br>
+                <a class="btn btn-primary" href="peak.php">PEAK</a>
+            </div>
+            <div class="col-sm">
+                <img src="images/puma.png" class="rounded" alt="puma"><br>
+                <a class="btn btn-primary" href="puma.php">PUMA</a>
+            </div>
         </div>
     </div>
 </section>
